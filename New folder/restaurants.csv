@@ -1,0 +1,18 @@
+id,city_id,restaurant_name,rating
+res1,1,Atliq Azizya,4.7
+res2,1,Atliq Red Sea,4.3
+res3,1,Atliq sharfia,3.8
+res4,1,Atlia andalus,3.9
+res5,1,Atlia salam,4.1
+res6,1,Atliq rhab,4.7
+res7,1,Atlq corniche,4.9
+res8,2,Atliq ahli,4.6
+res9,2,Atliq balad,3.5
+res10,2,Atliq kandra,2.6
+res11,2,Atlia arbaheen,4.6
+res12,2,Atliq tawan,4.2
+res13,3,Atliq bahria,4.1
+res14,3,Atliq sooq,4.5
+res15,3,Atliq sati,3.2
+res16,3,Atliq kul,4.6
+res17,3,Atliq hamra,4.4
